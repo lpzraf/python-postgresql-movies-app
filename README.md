@@ -1,4 +1,4 @@
-## Movie Watch App: Built with Python and SQLite
+## Movie Watch App: Built with Python and PostgreSQL
 
 ### To run:
 1. Fork and clone the repo
