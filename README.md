@@ -1,7 +1,7 @@
 ## Movie Watch App: Built with Python and PostgreSQL
 
 ### To run:
-1. Fork and clone the repo
+1. Fork and clone the repo.
 2. The project uses the "walrus operator” `:=` so make sure you have Python 3.8.
 3. CD to the `movies` directory.
 4. If you dont have PostgreSql installed, create an account in ElephantSql.
